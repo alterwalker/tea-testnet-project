@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-npm-package-scaffold": "^1.3.4"
+  }
+}
