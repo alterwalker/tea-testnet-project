@@ -1,6 +1,22 @@
 {
-  "dependencies": {
-    "create-npm-package-scaffold": "^1.3.4",
-    "vue": "^3.4.21"
-  }
+    "name": "tea-testnet-project",
+    "version": "1.0.0",
+    "description": "A simple Web3 project for interacting with Ethereum blockchain",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "web3",
+        "ethereum"
+    ],
+    "author": "alterwalker",
+    "license": "MIT",
+    "dependencies": {
+        "web3": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alterwalker/tea-testnet-project.git"
+      }
 }
